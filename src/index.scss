@@ -364,6 +364,10 @@
   --fw-bold: 600;
 }
 
+* {
+  scroll-behavior: smooth;
+}
+
 html {
   height: 100%;
   overflow: hidden;
